@@ -1,7 +1,7 @@
 ![HenryLogo](../assets/logoBannerHenry.png)
 
 # **HOMEWORK 03 | HTML**
-
+/1/
 ## **📌 INSTRUCCIONES**
 
 En esta primera actividad, exploraremos los primeros pasos en el mundo del desarrollo web. Comenzaremos creando nuestro primer archivo HTML, utilizando las etiquetas básicas que hemos explorado en clase para estructurar y dar forma a la página web.
